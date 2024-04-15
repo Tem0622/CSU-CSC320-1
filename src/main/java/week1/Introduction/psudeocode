@@ -1,0 +1,14 @@
+START
+    SET firstName = "Temuujin"
+    SET lastName = "Tsogtgerel"
+    SET streetAddress = "17347 Merigold"
+    SET city = "Conroe"
+    SET state = "Texas"
+    SET zipCode = "77302"
+
+    PRINT "First Name: " + firstName
+    PRINT "Last Name: " + lastName
+    PRINT "Street Address: " + streetAddress
+    PRINT "City: " + city
+    PRINT "Zip Code: " + zipCode
+END
